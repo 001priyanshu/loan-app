@@ -9,7 +9,6 @@ In order to setup it on your local machine run the following commands in the roo
 5. cd client
 6. npm install
 7. npm run dev
-
-   After these commands you can able to view the app on http://localhost:3000
+After these commands you can able to view the app on http://localhost:3000
 
   
